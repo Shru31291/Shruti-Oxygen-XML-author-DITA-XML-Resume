@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="education" path="education.html"/>
+   <appContext helpID="certifications" path="certifications.html"/>
+   <appContext helpID="publications" path="publications.html"/>
+   <appContext helpID="research_articles_in_peer_reviewed_journals"
+               path="research_articles_in_peer_reviewed_journals.html"/>
+   <appContext helpID="paper_and_poster_presentations"
+               path="paper_and_poster_presentations.html"/>
+   <appContext helpID="bacterial_sequences_in_ncbi"
+               path="bacterial_sequences_in_ncbi.html"/>
+   <appContext helpID="career_interests" path="career_interests.html"/>
+   <appContext helpID="projects_6_months" path="projects_6_months.html"/>
+   <appContext helpID="work_experience" path="work_experience.html"/>
+   <appContext helpID="contact" path="contact.html"/>
+   <appContext helpID="references" path="references.html"/>
+   <appContext helpID="other" path="other.html"/>
+   <appContext helpID="extra_curricular_activities"
+               path="extra_curricular_activities.html"/>
+   <appContext helpID="other_interests" path="other_interests.html"/>
+   <appContext helpID="sports" path="sports.html"/>
+</map>

@@ -222,14 +222,14 @@ Example:
     box-shadow: 0px 7px 21px -12px rgba(0, 0, 0, 0.3);
 }
 .wh_search_textfield{
-    background-color: pink;
+    background-color: white;
     padding: 0.3em;
     border:1px solid #86bd5d;
     border-radius: .5em;
 }
 .wh_search_button{
     color:black;
-    background-color: white;
+    background-color: pink;
     border-radius: 0 .5em .5em 0;
     padding: 0.25em 1.1em;
 }

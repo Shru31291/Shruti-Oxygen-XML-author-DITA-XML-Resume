@@ -23,7 +23,7 @@ body{
  *  
  */
 .navbar{
-    background:blue;
+    background:linear-gradient(pink, mistyrose);
     border: none;
     margin: 0;
     
@@ -66,7 +66,7 @@ a:hover{
 }
 
 .wh_top_menu ul li a{
-    background:pink;
+    background:linear-gradient(pink, mistyrose);
 }
 .wh_top_menu a{
     color: #333;
@@ -77,17 +77,17 @@ a:hover{
     color: #99cc00;
 }
 .wh_top_menu ul ul li a:hover {
-    background:white;;
+    background:linear-gradient(pink, mistyrose);
 }
 
 /* The submenus */
 .wh_top_menu ul ul{
-    background:pink;
+    background:linear-gradient(pink, mistyrose);
     border: 1px solid #999;    
 }
 .wh_top_menu ul ul li{
     border: none;
-    background:pink;
+    background:linear-gradient(pink, mistyrose);
 }
 
 /*
